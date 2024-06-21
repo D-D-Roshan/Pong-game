@@ -28,7 +28,7 @@ This Arcade Pong Game is a recreation of the classic arcade game Pong. It's desi
 
 ## Live Demo
 
-You can play the game directly in your browser by visiting the [Live Demo](https://your-deployed-site-url.com).
+You can play the game directly in your browser by visiting the [Live Demo](https://arcade-pong.netlify.app/).
 
 ## Getting Started
 
@@ -67,7 +67,8 @@ The objective of the game is to score points by hitting the ball past your oppon
 - **Player 1 (Left Paddle)**: Use the `W` (up) and `S` (down) keys.
 - **Player 2 (Right Paddle)**: Use the `Up Arrow` (up) and `Down Arrow` (down) keys.
 
-
+### Scoring
+- 1 point is awarded each time the ball passes the opponent's paddle.
 
 ## Contributing
 
