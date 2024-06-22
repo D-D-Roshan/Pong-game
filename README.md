@@ -43,13 +43,13 @@ To play the game locally, simply clone the repository and open the `index.html` 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/arcade-pong-game.git
+   git clone https://github.com/D-D-Roshan/Pong-game
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd arcade-pong-game
+   cd pong-game
    ```
 
 3. **Open the `index.html` file:**
